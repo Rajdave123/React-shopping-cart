@@ -1,5 +1,6 @@
 # Getting Started with Create React App
 
+Tech used: React@16.0.0, Typescript@5.0.2, redux@4.2.1, @mui/material: v:-5.13.1
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
